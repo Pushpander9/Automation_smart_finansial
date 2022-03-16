@@ -1,1 +1,1 @@
-# Automation_smart_finansial
+# Automation_smart_financial
